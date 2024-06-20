@@ -1,88 +1,90 @@
-# Midjourney-API
-Integrate our unofficial [Midjourney API](https://piapi.ai/midjourney-api) to build your AIimage applications - providing your users with infinitepossibilities generating images from text inputs.
+# Midjourney API (Hassle-free Integration)
+Enhance your AI-powered image applications with our unofficial [Midjourney API](https://piapi.ai/midjourney-api), providing users with unlimited potential to generate images from text prompts.
 <br><br>
-<div align="center" max-width: 100%>
-  <img src="https://iili.io/dHoZEtp.md.png"/>
-</div>
+<img src="https://github.com/PiAPI-1/Midjourney-API/assets/173328932/f1424aa4-e96d-43e3-aa88-2b346c5e89e5" alt="screenshot of the Midjourney API page from PiAPI" width="95%"/>
 <br><br>
 <h2>Features</h2>
 <ol>
-  <li>Built-in Load Balancer</li>
-  <li>Connect Multiple Accounts</li>
-  <li>Complete access to all endpoints</li>
-  <li>Workspace and Webhook</li>
-  <li>Supports V6, sref and cref</li>
+  <li>Integrated Load Balancer</li>
+  <li>Multi-Account Connectivity</li>
+  <li>Full Endpoint Access</li>
+  <li>Workspace and Webhook Support</li>
+  <li>Compatible with V6, --sref, and --cref</li>
   <li>Midjourney Subscription Excluded</li>
+  <li>Supported modes: Relax, Fast and Turbo</li>
 </ol>
 <br><br>
 <h2>Supported Operations</h2>
 <ul>
-  <li>Imagine - A single prompt generating 4 images in 2x2 grid</li>
-  <li>Upscale - Enhance the image quality with Midjourney’s upscaler</li>
-  <li>Variation - Create variants of the selected image</li>
-  <li>Describe - Provide descriptive texts for the image submitted</li>
-  <li>Blend - Combine two images into a new and original image</li>
-  <li>Inpaint - Change parts of the submitted image</li>
-  <li>Zoom - Extend the selected image beyond original boundary</li>
-  <li>Pan - Expand the image towards a chosen direction</li>
-  <li>--sref - Preserve consistency through style reference</li>
-  <li>--cref - Create images of the same character in different scenes</li>
+  <li>Imagine</li>
+  <li>Upscale</li>
+  <li>Variation</li>
+  <li>Describe</li>
+  <li>Blend</li>
+  <li>Inpaint</li>
+  <li>Zoom</li>
+  <li>Pan</li>
+  <li>--sref</li>
+  <li>--cref</li>
 </ul>
+
 <br><br>
-<h2>Supported Modes</h2>
-<ul>
-  <li>Relax Mode</li>
-  <li>Fast Mode</li>
-  <li>Turbo Mode</li>
-</ul>
-<br><br>
+
 <h2>Usage Options</h2>
+
 <h3>Pay-as-you-go Option</h3>
-<p>All you need to do is sign-up, purchase credits in our Workspace and you can use our API right away! 
-  The service uses PiAPI’s Midjourney account pools, so you don’t have to worry about their operation at all!
-  <br><br>
-  Please refer to our <a herf="https://piapi.ai/pricing">pricing page</a> for more information.
+
+<p>
+  To get started, simply sign up and purchase credits in our Workspace. Once done, you can immediately access our API! Our service leverages PiAPI’s Midjourney account pools, ensuring seamless operation without any hassle on your part.
 </p>
+
 <ul>
-  <li>Don't need your own Midjourney account(s) pool!</li>
-  <li>Don't need to manage/operate Midjourney accounts</li>
-  <li>Complete access to all endpoints</li>
-  <li>Get started with integrating the API right away!</li>
+  <li>No need for your own Midjourney account(s) pool!</li>
+  <li>No need to manage or operate Midjourney accounts</li>
+  <li>Full access to all endpoints</li>
+  <li>Start integrating the API immediately!</li>
 </ul>
-<h4>Pricing</h4>
+
+<br>
+
+<h3>Host-your-account Option</h3>
+<p>
+  When you choose our Host-Your-Account service, you'll use your own Midjourney Account(s). Then you can subscribe to PiAPI's Midjourney API seat(s), connecting your Midjourney account(s) to the seat(s), and you're ready for integration!
+</p>
+
+<ul>
+  <li>Faster generation time</li>
+  <li>No need to host your own Midjourney account</li>
+  <li>Stable API service</li>
+</ul>
+
+<br>
+
+<h3>Pricing</h3>
+<h4>Pay-as-you-go Option</h4>
 <ul>
   <li>Relax Mode: <b>$0.015</b>/imagine task</li>
   <li>Fast Mode: <b>$0.045</b>/imagine task</li>
   <li>Turbo Mode: <b>$0.10</b>/imagine task</li>
 </ul>
-<br>
-<h3>Host-your-account Option</h3>
-<p>With our Host-Your-Account service, you will be using your own Midjourney Account(s) and 
-  you will be required to buy PiAPI Midjourney API seat(s), bind your Midjourney Account(s) to the seat(s), and you are ready to go!!
-  <br><br>
-</p>
-Please refer to our <a herf="https://piapi.ai/pricing">pricing page</a> for more information. 
+<h4>Host-your-account Option</h4>
 <ul>
-  <li>Already have your own Midjourney account(s)?</li>
-  <li>Don't want to wait in queue for other's tasks to be completed?</li>
-  <li>Offers overall faster generation time!</li>
-</ul>
-<h4>Flat Pricing</h4>
-<ul>
-  <li><b>$8</b>/seat/month</li>
+  <li>Flat pricing: <b>$8</b>/seat/month</li>
 </ul>
 <br>
-<h2>Usage Options</h2>
+Please refer to our <a href="https://piapi.ai/pricing">pricing page</a> for more information. 
+<br><br>
+<h2>Usage Steps</h2>
 <h3>Pay-as-you-go Option</h3>
 <ul>
   <li>Register for PiAPI's Workspace using your GitHub account.</li>
-  <li>Obtain your API KEY from our <a herf="https://app.piapi.ai/">Workspace</a></li>
+  <li>Obtain your API KEY from our <a href="https://app.piapi.ai/">Workspace</a></li>
   <li>Start coding right away!</li>
 </ul>
 <br>
 <h4>Sample API Calls (using cURL)</h4>
 <br>
-<p>Creating an imagine call</p>
+<p>Create an imagine call</p>
 
 ```
 curl --location 'https://api.piapi.ai/mj/v2/imagine' \
@@ -97,7 +99,7 @@ curl --location 'https://api.piapi.ai/mj/v2/imagine' \
         }
 }'
 ```
-<p>Returning</p>
+<p>Response</p>
 
 ```
 {
@@ -124,9 +126,9 @@ curl --location 'https://api.piapi.ai/mj/v2/fetch' \
 }'
 ```
 <br>
-<p>Returning</p>
-Check out our <a herf-"https://piapi.ai/docs/midjourney-api/fetch">documentation</a> for more information!
+<p>Response - Check out our <a href="https://piapi.ai/docs/faceswap-api/fetch">documentation</a> for more information!</p>
 <br>
 <br>
 <h2>Contact us</h2>
-<p>Email: contact@piapi.ai</p>
+<p>Email: <a href="mailto:contact@piapi.ai">contact@piapi.ai</a></p>
+<br>
