@@ -54,7 +54,7 @@ Enhance your AI-powered image applications with our unofficial [Midjourney API](
 
 <ul>
   <li>Faster generation time</li>
-  <li>No need to host your own Midjourney account</li>
+  <li>Supports hosting of multiple accounts</li>
   <li>Stable API service</li>
 </ul>
 
