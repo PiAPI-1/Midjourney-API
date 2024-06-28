@@ -126,7 +126,7 @@ curl --location 'https://api.piapi.ai/mj/v2/fetch' \
 }'
 ```
 <br>
-<p>Response - Check out our <a href="https://piapi.ai/docs/faceswap-api/fetch">documentation</a> for more information!</p>
+<p>Response - Check out our <a href="https://piapi.ai/docs/midjourney-api/fetch">documentation</a> for more information!</p>
 <br>
 <br>
 <h2>Contact us</h2>
